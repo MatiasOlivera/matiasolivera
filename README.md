@@ -19,4 +19,4 @@ microbundle
 
 ### ⚙️ CI/CD
 
-- [Add pipeline for testing + code coverage](https://github.com/MatiasOlivera/ypf-tienda/pull/47) Implemented a CI/CD pipeline using CircleCI and Codecov to ensure code quality and prevent codebase regressions
+- [Add pipeline for testing + code coverage](https://github.com/MatiasOlivera/ypf-tienda/pull/47): Implemented a CI/CD pipeline using CircleCI and Codecov to ensure code quality and prevent codebase regressions
