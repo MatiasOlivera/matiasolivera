@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**MatiasOlivera/matiasolivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 Open Source Contributions
 
-Here are some ideas to get you started:
+VS Code
+- [Temporary workaround to bug](https://github.com/microsoft/vscode/issues/92308#issuecomment-596885893): Fixed a syntax highlighting bug via a custom settings workaround
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DefinitelyTyped
+- [Add graphql-errors type definitions](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/31418): Added official type definitions to address the lack of types for this library
+- [Update Validatorjs type definitions](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/31929): Updated type definitions to match the new version
+
+microbundle
+- [Refactoring](https://github.com/developit/microbundle/pull/291): Improved legibility and maintainability through refactoring
+
+### 🚀 Personal Projects
+
+- [Universe theme](https://github.com/MatiasOlivera/universe-theme): A VS Code theme (Typescript + Node) focusing on consistent syntax highlighting and accessible text contrast
+- [Feedy](https://github.com/MatiasOlivera/feedy): A feedback platform (Vue.js + Typescript + Node.js + GraphQL) for sharing ideas to improve products or services
+
+### ⚙️ CI/CD
+
+- [Add pipeline for testing + code coverage](https://github.com/MatiasOlivera/ypf-tienda/pull/47) Implemented a CI/CD pipeline using CircleCI and Codecov to ensure code quality and prevent codebase regressions
