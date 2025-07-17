@@ -14,8 +14,8 @@ microbundle
 
 ### 🚀 Personal Projects
 
-- [Universe theme](https://github.com/MatiasOlivera/universe-theme): A VS Code theme (Typescript + Node) focusing on consistent syntax highlighting and accessible text contrast
-- [Feedy](https://github.com/MatiasOlivera/feedy): A feedback platform (Vue.js + Typescript + Node.js + GraphQL) for sharing ideas to improve products or services
+- [Universe theme](https://github.com/MatiasOlivera/universe-theme): A VS Code theme (Typescript + Node) focusing on consistent syntax highlighting and accessible text contrast. [Wiki](https://deepwiki.com/MatiasOlivera/universe-theme)
+- [Feedy](https://github.com/MatiasOlivera/feedy): A feedback platform (Vue.js + Typescript + Node.js + GraphQL) for sharing ideas to improve products or services. [Wiki](https://deepwiki.com/MatiasOlivera/feedy)
 
 ### ⚙️ CI/CD
 
